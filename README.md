@@ -19,3 +19,11 @@ It was given as an assignment to show my knowledge of web structure and responsi
 - Open `index.html` in any browser  
 - Bootstrap CSS and JS are linked via CDN  
 - The page layout and design automatically adjust for mobile, tablet, and desktop
+
+ ### Why CDN is used?
+Bootstrap is linked using a **CDN (Content Delivery Network)**.  
+This allows the project to:  
+- Load Bootstrap files directly from fast global servers  
+- Avoid keeping extra CSS/JS files in the project  
+- Make the website design work immediately when opened in a browser
+
